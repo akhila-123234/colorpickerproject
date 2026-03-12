@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+
+.main_heading {
+    text-align: center;
+    margin-top: 50px;
+    font-family: "open sans";
+    font-weight: bold;
+}
+
+.button_1 {
+    background-color: #e0e0e0;
+    border-radius: 20%;
+    height: 80px;
+    padding: 10px;
+    border-style: solid;
+    font-family: "open sans";
+}
+
+.button_2 {
+    background-color: #6fcf97;
+    border-radius: 20%;
+    height: 80px;
+    padding: 10px;
+    border-style: solid;
+    font-family: "open sans";
+}
+
+.button_3 {
+    background-color: #56ccf2;
+    border-radius: 20%;
+    height: 80px;
+    padding: 10px;
+    border-style: solid;
+    font-family: "open sans";
+}
+
+.button_4 {
+    background-color: #bb6bd9;
+    border-radius: 20%;
+    height: 80px;
+    padding: 10px;
+    border-style: solid;
+    font-family: "open sans";
+}
+
+.para1 {
+    background-color: #222222;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    font-family: "open sans";
+}
+
+.para2 {
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    font-family: "open sans";
+}
